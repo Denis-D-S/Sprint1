@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Apresentacao/Apresentacao.iml" filepath="$PROJECT_DIR$/Apresentacao/Apresentacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExEnum/ExEnum.iml" filepath="$PROJECT_DIR$/ExEnum/ExEnum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExInterface/ExInterface.iml" filepath="$PROJECT_DIR$/ExInterface/ExInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExStaticCarros/ExStaticCarros.iml" filepath="$PROJECT_DIR$/ExStaticCarros/ExStaticCarros.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GetSetPriv/GetSetPriv.iml" filepath="$PROJECT_DIR$/GetSetPriv/GetSetPriv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MostrandoFinal/MostrandoFinal.iml" filepath="$PROJECT_DIR$/MostrandoFinal/MostrandoFinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MostrandoStatic/MostrandoStatic.iml" filepath="$PROJECT_DIR$/MostrandoStatic/MostrandoStatic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Sprint 1.iml" filepath="$PROJECT_DIR$/.idea/Sprint 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TypeCasting/TypeCasting.iml" filepath="$PROJECT_DIR$/TypeCasting/TypeCasting.iml" />
+    </modules>
+  </component>
+</project>

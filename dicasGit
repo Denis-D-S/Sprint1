@@ -1,0 +1,103 @@
+
+PARA CRIAR A PASTA:
+
+-abra o IntelliJ e crie a pasta via "create New Project". A pasta será criada automaticamente
+
+-naquele "/AreaDeTrabalho/Techonocorp/Treinamento08/" CADA BARRA "/" dessas representa uma pasta específica. O "fileName" do nome do projeto que você está criando precisa ter o mesmo nome da última pasta, neste caso seria "fileName: TReinamento08".
+
+-estou usando o mesmo SSH para o GitHub e GitLab. 
+
+-para criar SSH apenas digite no terminal (a qualquer momento que quiser, tanto faz): "$ ssh-keygen"
+
+-as chaves geradas estarão na pasta .ssh, localizada na Pasta Pessoal "Technocorp". O nome do arquivo será provavelmente  "id_rsa" ou "id_rsa.pub". É só abrir estes 2 arquivos, e dentro de 1 deles estará a chave SSH que você tem que pegar e colar lá no Settings do GitHub ou GitLab. 
+
+--
+
+CRIANDO DIRETÓRIO
+-pwd
+-git init
+-git remote add origin <link do site>
+-git add .
+git commit -m "primeiro commit"
+git branch -M master
+git push -u origin master
+
+-
+
+OLHANDO O TRABALHO
+-git status
+-git branch --list
+-ls
+-ls -al
+
+-
+
+CRIANDO OUTRAS BRANCHS
+-git branch second
+-git branch third
+-git branch --list
+-git branch -d <nome da branch>
+-git checkout second
+
+-gitk --all
+
+-
+
+TESTANDO GITIGNORE
+-touch .gitignore
+
+-git log
+
+-
+
+TESTANDO GIT STASH
+-git stash
+-git stash pop
+
+-
+
+TESTANDO O CHERRY PICK
+-git cherry-pick <log que vc deseja>
+
+-
+
+TESTANDO O GIT MERGE
+-git merge <nome da branch>
+
+-
+
+TESTANDO O GIT REBASE
+-git rebase <nome da branch>
+-git rebase --continue
+-git rebase --abort
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
